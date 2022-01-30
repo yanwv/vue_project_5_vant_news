@@ -1,0 +1,21 @@
+{
+  "name": "vue_news",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "amfe-flexible": "^2.2.1",
+    "axios": "^0.25.0",
+    "vant": "^3.4.3",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
+    "postcss-pxtorem": "^6.0.0",
+    "vite": "^2.7.2"
+  }
+}
